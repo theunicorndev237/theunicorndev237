@@ -8,6 +8,7 @@
     <td width="50%" valign="top">
       <p align="center">   
          <img src="https://user-images.githubusercontent.com/111123101/184358359-9deeeae4-c1ba-44d2-910d-20729956492b.png" data-canonical-src="https://user-images.githubusercontent.com/111123101/184358359-9deeeae4-c1ba-44d2-910d-20729956492b.png" />
+         <h4>"Before software can be reusable it first has to be usable." – Ralph Johnson</h4>
       </p>
     </td>
     <td width="50%" valign="top">
