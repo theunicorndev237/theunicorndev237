@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Njoh Noh Prince Junior a Programmer from Cameroon.
 
 ### Welcome to My Github Profile, Hope you like everything you see.
 
