@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Njoh Noh Prince Junior.
 
 ### Welcome to My Github Profile, Hope you like everything you see.
-<img src="https://user-images.githubusercontent.com/111123101/184356974-7dde3146-2486-4a08-8a34-a0a4766edfd5.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/111123101/184356974-7dde3146-2486-4a08-8a34-a0a4766edfd5.png)" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/111123101/184356974-7dde3146-2486-4a08-8a34-a0a4766edfd5.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/111123101/184356974-7dde3146-2486-4a08-8a34-a0a4766edfd5.png)" width="400" height="400" style="border-radius: 20px;" />
 
 ### Know More About Me?
 
