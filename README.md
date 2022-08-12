@@ -2,8 +2,6 @@
 
 ### Welcome to My Github Profile, Hope you like everything you see.
 
-![2_7](https://user-images.githubusercontent.com/111123101/184345062-6181c7f3-bb9f-44d2-bc0c-fc34b080d050.png)
-
 ### Know More About Me?
 
 - 🌱 I’m currently learning machine learning and upgrading my data structures and algorithm skill sets.
