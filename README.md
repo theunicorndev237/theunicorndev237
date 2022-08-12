@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Njoh Noh Prince Junior.
 
 ### Welcome to My Github Profile, Hope you like everything you see.
+![192-1923360_github-octocat-robot](https://user-images.githubusercontent.com/111123101/184356974-7dde3146-2486-4a08-8a34-a0a4766edfd5.png)
 
 ### Know More About Me?
 
