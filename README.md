@@ -20,6 +20,10 @@
   </tr>
 </table>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theunicorndev237&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theunicorndev237&langs_count=8&layout=compact)](https://github.com/theunicorndev237/github-readme-stats)
+
 ### Know More About Me?
 
 - 🤩 Have 4years+ experience in programming
