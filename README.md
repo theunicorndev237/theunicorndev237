@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-### Welcome to My Github Profile, Hope you like everythin you see.
+### Welcome to My Github Profile, Hope you like everything you see.
+
+### Descriptive avatar
+![2_7](https://user-images.githubusercontent.com/111123101/184345062-6181c7f3-bb9f-44d2-bc0c-fc34b080d050.png)
 
 ### Know More About Me?
 
