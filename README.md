@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning machine learning and upgrading my data structures and algorithm skill sets.
 - 👯 I’m looking to collaborate on more and more real life projects, have something in mind? Connect with me.
 
-### Connect With Us ❤
+### Connect With Me ❤
 <p>
   <a href="https://www.linkedin.com/in/njoh-noh-prince-junior-b93347201/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
