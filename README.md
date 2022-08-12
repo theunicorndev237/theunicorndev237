@@ -2,7 +2,21 @@
 
 ### Welcome to My Github Profile, Hope you like everything you see.
 
-<img src="https://user-images.githubusercontent.com/111123101/184356974-7dde3146-2486-4a08-8a34-a0a4766edfd5.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/111123101/184356974-7dde3146-2486-4a08-8a34-a0a4766edfd5.png)" width="200" height="200" />
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">   
+         <img src="https://user-images.githubusercontent.com/111123101/184358359-9deeeae4-c1ba-44d2-910d-20729956492b.png" data-canonical-src="https://user-images.githubusercontent.com/111123101/184358359-9deeeae4-c1ba-44d2-910d-20729956492b.png" width="200" height="200" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center">   
+         <img src="https://user-images.githubusercontent.com/111123101/184356974-7dde3146-2486-4a08-8a34-a0a4766edfd5.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/111123101/184356974-7dde3146-2486-4a08-8a34-a0a4766edfd5.png)" width="200" height="200" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### Know More About Me?
 
