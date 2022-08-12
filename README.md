@@ -39,3 +39,20 @@
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p>
 
+<br />
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">
+  🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!
+</p>
+
+<p align="center">
+  💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in Cameroon</p>
+
+<h1 align='center'>⚡️<i>Happy Coding!</i>⚡️</h1>
+
+![Bottom](https://user-images.githubusercontent.com/111123101/184352966-1d14dd4c-a8a9-4c21-8d94-9029642aaf9d.svg)
+
