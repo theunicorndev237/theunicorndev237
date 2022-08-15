@@ -10,7 +10,7 @@
 
 - 🤩 Have 4years+ experience in programming
 - ✨ Have a strong mastery of JavaScript, UI/UX design principles and a real team player.
-- 🌱 I’m currently learning machine learning and upgrading my data structures and algorithm skill sets.
+- 🌱 I’m currently learning machine learning, web3, studying blockchain technologies and upgrading my data structures and algorithm skill sets.
 - ♨ Play 8ball pool for relaxation
 - 👯 I’m looking to collaborate on more and more real life projects, have something in mind? Connect with me.
 
