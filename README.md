@@ -1,9 +1,5 @@
 ### Hi there 👋, I am Njoh Noh Prince Junior.
 
-### Welcome to My Github Profile, Hope you like everything you see.
-
-### Know More About Me?
-
 - 🤩 Have 4years+ experience in programming
 - ✨ Have a strong mastery of JavaScript, UI/UX design principles and a real team player.
 - 🌱 I’m currently learning machine learning, web3, studying blockchain technologies and upgrading my data structures and algorithm skill sets.
