@@ -10,6 +10,10 @@
 - ♨ Play 8ball pool for relaxation
 - 👯 I’m looking to collaborate on more and more real life projects, have something in mind? Connect with me.
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theunicorndev237&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theunicorndev237&langs_count=8&layout=compact)](https://github.com/theunicorndev237/github-readme-stats)
+
 ### Connect With Me ❤
 <p align="center">
   <a href="https://www.linkedin.com/in/njoh-noh-prince-junior-b93347201/" target="_blank">
