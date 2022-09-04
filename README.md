@@ -1,4 +1,4 @@
-### Hi there 👋, I am Njoh Noh Prince Junior(theunicorndev237).
+### Hi there 👋, I am Njoh Noh Prince Junior (theunicorndev237).
 
 - 🤩 Have 5years+ experience in programming
 - ✨ Have a strong mastery of JavaScript, UI/UX design principles and a real team player.
